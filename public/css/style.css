@@ -1,0 +1,58 @@
+body {
+    background-color: #333
+}
+
+.container {
+    background-color: rgba(255, 251, 251, 0.31);
+    color: white;
+    text-align: center;
+}
+.openButton {
+    background-color:#636363;
+    border-radius:28px;
+    border:1px solid #1e211e;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Trebuchet MS;
+    font-size:18px;
+    font-weight:bold;
+    padding:21px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #5f615f;
+}
+.openButton:hover {
+    background-color:#0f0f0e;
+}
+.openButton:active {
+    position:relative;
+    top:1px;
+}
+
+.pull-right img-thumbnail {
+    margin-top: -10px;
+    margin-bottom: 10px
+}
+
+.header-row {
+    margin-top: 20px
+}
+
+.banner-img {
+    margin-bottom: 20px
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.product-img {
+    width: 70%;
+}
+.googlemaps{
+    margin: auto;
+}
+
+iframe{
+    margin: auto;
+}
